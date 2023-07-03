@@ -1,0 +1,25 @@
+[ModelSim]
+AES = $HDS_PROJECT_DIR\AES\work
+my_project1_lib = $HDS_PROJECT_DIR/my_project1_lib/work
+MY_PROJECT1_LIB1 = $HDS_PROJECT_DIR/MY_PROJECT1_LIB1/work
+[hdl]
+AES = $HDS_PROJECT_DIR\AES\hdl
+my_project1_lib = F:/my_project1/MY_PROJECT1_LIB1
+MY_PROJECT1_LIB1 = C:/Documents and Settings/Mostafa/Desktop/ECC/hdl
+[hds]
+AES = $HDS_PROJECT_DIR\AES\hds
+my_project1_lib = $HDS_PROJECT_DIR/my_project1_lib/hds
+MY_PROJECT1_LIB1 = $HDS_PROJECT_DIR/MY_PROJECT1_LIB1/hds
+[hds_settings]
+default_library = my_project1_lib
+version = 1
+[library_files_inclusion]
+AES = all
+my_project1_lib = specify
+MY_PROJECT1_LIB1 = all
+[library_type]
+AES = regular
+my_project1_lib = regular
+MY_PROJECT1_LIB1 = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

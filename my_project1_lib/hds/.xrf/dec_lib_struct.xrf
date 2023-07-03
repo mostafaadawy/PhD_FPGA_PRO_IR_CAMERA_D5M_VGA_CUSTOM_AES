@@ -1,0 +1,224 @@
+DESIGN dec_lib
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 122,0 14 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 127,0 15 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 132,0 16 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 916,0 17 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 137,0 18 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 847,0 19 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 921,0 20 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 656,0 21 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 142,0 22 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 235,0 23 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 230,0 24 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 911,0 25 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 906,0 26 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 1,0 29 0 
+DESIGN dec_lib
+VIEW symbol.sb
+GRAPHIC 1,0 30 0 
+DESIGN dec_lib
+VIEW struct.bd
+NO_GRAPHIC 33
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 153,0 42 0 
+DESIGN dec_lib
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 0,0 48 2 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 405,0 53 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 816,0 54 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 373,0 55 0 
+DESIGN dec_lib
+VIEW struct.bd
+NO_GRAPHIC 56
+DESIGN dec_lib
+VIEW struct.bd
+NO_GRAPHIC 57
+LIBRARY my_project1_lib
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 944,0 59 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 187,0 61 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 192,0 62 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 197,0 63 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 309,0 64 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 202,0 65 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 319,0 66 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 207,0 67 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 314,0 68 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 217,0 69 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 222,0 70 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 227,0 71 0 
+DESIGN dec_ctrl
+VIEW rtl
+GRAPHIC 304,0 72 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 806,0 75 0 
+DESIGN reg
+VIEW rtl
+GRAPHIC 51,0 77 0 
+DESIGN reg
+VIEW rtl
+GRAPHIC 175,0 78 0 
+DESIGN reg
+VIEW rtl
+GRAPHIC 66,0 79 0 
+DESIGN reg
+VIEW rtl
+GRAPHIC 71,0 80 0 
+DESIGN reg
+VIEW rtl
+GRAPHIC 76,0 81 0 
+DESIGN reg
+VIEW rtl
+GRAPHIC 56,0 82 0 
+DESIGN reg
+VIEW rtl
+GRAPHIC 61,0 83 0 
+LIBRARY my_project1_lib
+DESIGN dec_lib
+VIEW struct.bd
+NO_GRAPHIC 86
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 944,0 89 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 806,0 90 0 
+DESIGN dec_lib
+VIEW struct.bd
+NO_GRAPHIC 93
+DESIGN dec_lib
+VIEW struct.bd
+NO_GRAPHIC 95
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 944,0 97 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 868,0 99 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 57,0 100 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 71,0 101 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 972,0 102 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 85,0 103 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 980,0 104 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 99,0 105 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 964,0 106 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 397,0 107 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 818,0 108 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 355,0 109 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 956,0 110 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 806,0 112 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 345,0 114 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 688,0 115 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 397,0 116 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 818,0 117 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 355,0 118 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 15,0 119 0 
+DESIGN dec_lib
+VIEW struct.bd
+GRAPHIC 29,0 120 0 
+DESIGN dec_lib
+VIEW struct.bd
+NO_GRAPHIC 123

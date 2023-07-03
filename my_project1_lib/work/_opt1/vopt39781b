@@ -1,0 +1,424 @@
+m255
+K3
+13
+Z0 cModel Technology
+Z1 dF:\my_project1\my_project1_lib\work
+T_opt
+Z2 VK_l1iO>hU;35hgEZkSPYH0
+Z3 015 8 3 my_project1_lib enc_ctrl rtl 0
+Z4 =3-0800272774e7-58b3e190-330-204
+Z5 o-quiet +acc -auto_acc_if_foreign -work my_project1_lib -L my_project1_lib
+Z6 tExplicit 1
+Z7 OE;O;6.3a;37
+T_opt1
+Z8 VA]H491V5kh_BYSjVZ6U_F0
+Z9 015 8 3 my_project1_lib dec_ctrl rtl 0
+Z10 =1-0800272774e7-58b3e9e8-314-710
+R5
+R6
+R7
+T_opt2
+Z11 VASNRi^FHlC`@kQCc4kEDU0
+Z12 015 8 3 my_project1_lib expander rtl 0
+Z13 =2-0800272774e7-58b3c5e1-113-670
+R5
+R6
+R7
+Ecoll_shif_reg
+Z14 w1488087480
+Z15 DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+Z16 DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+Z17 8F:/my_project1/MY_PROJECT1_LIB1/coll_shif_reg_rtl.vhd
+Z18 FF:/my_project1/MY_PROJECT1_LIB1/coll_shif_reg_rtl.vhd
+l0
+L14
+Z19 VD5blC31`WC4^Q6iMH4:_R1
+Z20 OE;C;6.3a;37
+31
+Z21 o-work my_project1_lib -nologo -93
+R6
+Artl
+R15
+R16
+Z22 DE work coll_shif_reg D5blC31`WC4^Q6iMH4:_R1
+l29
+L27
+Z23 V`^8d]?ZXgEH1PW_ANX[Mb0
+R20
+31
+Z24 M2 ieee std_logic_1164
+Z25 M1 ieee std_logic_arith
+R21
+R6
+Ecounter
+Z26 w1488086923
+R15
+R16
+Z27 8F:/my_project1/MY_PROJECT1_LIB1/Counter_rtl.vhd
+Z28 FF:/my_project1/MY_PROJECT1_LIB1/Counter_rtl.vhd
+l0
+L6
+Z29 V]3;YkHa;nf`XiT6PT;ZWm2
+R20
+31
+R21
+R6
+Artl
+R15
+R16
+Z30 DE work counter ]3;YkHa;nf`XiT6PT;ZWm2
+l20
+L18
+Z31 V5[C1FJC6<ELlXT;hVR=lP0
+R20
+31
+R24
+R25
+R21
+R6
+Edec_ctrl
+Z32 w1488185807
+R15
+R16
+31
+Z33 8F:/my_project1/MY_PROJECT1_LIB1/dec_ctrl_rtl.vhd
+Z34 FF:/my_project1/MY_PROJECT1_LIB1/dec_ctrl_rtl.vhd
+l0
+L14
+Z35 VX`?4gOPCz`6D9j:E`7A^W0
+R20
+R21
+R6
+Artl
+R15
+R16
+DE my_project1_lib dec_ctrl X`?4gOPCz`6D9j:E`7A^W0
+31
+R24
+R25
+l38
+L35
+Z36 V3D@<BOgeh`JiOeJ6XTk4Q2
+R20
+R21
+R6
+Edec_lib
+Z37 w1488112537
+R15
+R16
+Z38 8F:/my_project1/MY_PROJECT1_LIB1/dec_lib_struct.vhd
+Z39 FF:/my_project1/MY_PROJECT1_LIB1/dec_lib_struct.vhd
+l0
+L13
+Z40 VP`kf0RNR@4SC9]NlJfbj62
+R20
+32
+Z41 o-work my_project1_lib -nologo
+R6
+Astruct
+Z42 DE my_project1_lib reg DR6K7:dXR_FU@CEcGLIHb3
+Z43 DE my_project1_lib dec_ctrl ZH3h:H]X?<XhQjgDAz:Gj2
+Z44 DE work dec_lib P`kf0RNR@4SC9]NlJfbj62
+R15
+R16
+l87
+L44
+Z45 V>U?<Vb9=[aaF?Jmz1IHeK0
+R20
+32
+R24
+R25
+R41
+R6
+Edec_module
+Z46 w1487932473
+R15
+R16
+Z47 8F:/my_project1/MY_PROJECT1_LIB1/dec_module_rtl.vhd
+Z48 FF:/my_project1/MY_PROJECT1_LIB1/dec_module_rtl.vhd
+l0
+L6
+Z49 Vh<KV1Zl7;DEe[Nz0O^kca3
+R20
+31
+R21
+R6
+Artl
+R15
+R16
+Z50 DE work dec_module h<KV1Zl7;DEe[Nz0O^kca3
+l21
+L20
+Z51 VdHBES6Tb?z:gfAGz`CHFN3
+R20
+31
+R24
+R25
+R21
+R6
+Edelay_effect
+Z52 w1488171548
+R15
+R16
+Z53 8F:/my_project1/MY_PROJECT1_LIB1/delay_effect_rtl.vhd
+Z54 FF:/my_project1/MY_PROJECT1_LIB1/delay_effect_rtl.vhd
+l0
+L14
+Z55 Vn[E[V4]EOlnc?ik7hcbSo0
+R20
+31
+R21
+R6
+Artl
+R15
+R16
+Z56 DE work delay_effect n[E[V4]EOlnc?ik7hcbSo0
+l30
+L27
+Z57 V52fG2maFRV@[_0]dg1;3C0
+R20
+31
+R24
+R25
+R21
+R6
+Eenc_ctrl
+Z58 w1488183687
+R15
+R16
+Z59 8F:/my_project1/MY_PROJECT1_LIB1/Enc_ctrl_rtl.vhd
+Z60 FF:/my_project1/MY_PROJECT1_LIB1/Enc_ctrl_rtl.vhd
+l0
+L5
+Z61 Vj[^eng6d1b<m1nGi1GG1o0
+R20
+31
+R21
+R6
+Artl
+R15
+R16
+Z62 DE work enc_ctrl j[^eng6d1b<m1nGi1GG1o0
+l27
+L25
+Z63 V@Bm572g[gG5Rk2I<z5XG:3
+R20
+31
+R24
+R25
+R21
+R6
+Eenc_lib
+Z64 w1488121720
+R15
+R16
+Z65 8F:/my_project1/MY_PROJECT1_LIB1/enc_lib_struct.vhd
+Z66 FF:/my_project1/MY_PROJECT1_LIB1/enc_lib_struct.vhd
+l0
+L13
+Z67 V70b0hgh5`gWEfUbzi6L9o0
+R20
+32
+R41
+R6
+Astruct
+Z68 DE my_project1_lib delay_effect n[E[V4]EOlnc?ik7hcbSo0
+Z69 DE my_project1_lib coll_shif_reg D5blC31`WC4^Q6iMH4:_R1
+Z70 DE my_project1_lib enc_ctrl 014h52lT6BSM7@bU9lUJL3
+Z71 DE my_project1_lib counter ]3;YkHa;nf`XiT6PT;ZWm2
+Z72 DE work enc_lib 70b0hgh5`gWEfUbzi6L9o0
+R15
+R16
+l101
+L44
+Z73 Vgamo7E01o9f41`mfBFSS=1
+R20
+32
+R24
+R25
+R41
+R6
+Eenc_module
+Z74 w1487932269
+R15
+R16
+Z75 8F:/my_project1/MY_PROJECT1_LIB1/enc_module_rtl.vhd
+Z76 FF:/my_project1/MY_PROJECT1_LIB1/enc_module_rtl.vhd
+l0
+L6
+Z77 VlHhGhPgK02V:P@Z?dfKU80
+R20
+31
+R21
+R6
+Artl
+R15
+R16
+Z78 DE work enc_module lHhGhPgK02V:P@Z?dfKU80
+l21
+L20
+Z79 V3o3018>YU6[bOIm1L7UNI2
+R20
+31
+R24
+R25
+R21
+R6
+Eexpander
+Z80 w1488176604
+R15
+R16
+Z81 8F:/my_project1/MY_PROJECT1_LIB1/test_rtl.vhd
+Z82 FF:/my_project1/MY_PROJECT1_LIB1/test_rtl.vhd
+l0
+L7
+Z83 V^d3nekjfIgAc`Jz08DHUT1
+R20
+31
+R21
+R6
+Artl
+R15
+R16
+Z84 DE work expander ^d3nekjfIgAc`Jz08DHUT1
+l23
+L20
+Z85 VCPGT0mQ1`FHAU4@^N=CB`0
+R20
+31
+R24
+R25
+R21
+R6
+Eir_rx_ctrl
+Z86 w1487934408
+R15
+R16
+Z87 8F:/my_project1/MY_PROJECT1_LIB1/ir_rx_ctrl_rtl.vhd
+Z88 FF:/my_project1/MY_PROJECT1_LIB1/ir_rx_ctrl_rtl.vhd
+l0
+L17
+Z89 Vij39D2zfF[ME^_ma4HN>n3
+R20
+32
+R41
+R6
+Artl
+R15
+R16
+Z90 DE work ir_rx_ctrl ij39D2zfF[ME^_ma4HN>n3
+l34
+L32
+Z91 V61LHWINo4X>2LmkU7j62G2
+R20
+32
+R24
+R25
+R41
+R6
+Emostafa_module
+Z92 w1487840675
+R15
+R16
+Z93 8F:/my_project1/MY_PROJECT1_LIB1/mostafa_module_rtl.vhd
+Z94 FF:/my_project1/MY_PROJECT1_LIB1/mostafa_module_rtl.vhd
+l0
+L6
+Z95 VUc91`5A23Y39:6XVAS>KD1
+R20
+32
+R41
+R6
+Artl
+R15
+R16
+Z96 DE work mostafa_module Uc91`5A23Y39:6XVAS>KD1
+l21
+L20
+Z97 Vgz10in;Ng?oCJ7kF_T=5d0
+R20
+32
+R24
+R25
+R41
+R6
+Ereg
+Z98 w1488174589
+R15
+R16
+Z99 8F:/my_project1/MY_PROJECT1_LIB1/reg_rtl.vhd
+Z100 FF:/my_project1/MY_PROJECT1_LIB1/reg_rtl.vhd
+l0
+L14
+Z101 Vhf9`aBDFOGF09?i5LAc?X2
+R20
+31
+R21
+R6
+Artl
+R15
+R16
+Z102 DE work reg hf9`aBDFOGF09?i5LAc?X2
+l33
+L30
+Z103 V6@nk]nL7dYf6nZFGlHVQP3
+R20
+31
+R24
+R25
+R21
+R6
+Etest
+Z104 w1487838657
+R15
+R16
+R81
+R82
+l0
+L14
+Z105 VOdX>2Znf>@a?zD7eo0YQ93
+R20
+31
+R21
+R6
+Artl
+R15
+R16
+Z106 DE work test OdX>2Znf>@a?zD7eo0YQ93
+l19
+L18
+Z107 V53ZFNlQ80b6VoFoKz?bU;3
+R20
+31
+R24
+R25
+R21
+R6
+Etest_top
+Z108 w1488108938
+R15
+R16
+Z109 8F:/my_project1/MY_PROJECT1_LIB1/test_top_struct.vhd
+Z110 FF:/my_project1/MY_PROJECT1_LIB1/test_top_struct.vhd
+l0
+L13
+Z111 V`XCzB`RJYnQ[;j1bK^N>J1
+R20
+32
+R41
+R6
+Astruct
+Z112 DE my_project1_lib enc_lib 70b0hgh5`gWEfUbzi6L9o0
+Z113 DE my_project1_lib dec_lib XDR[:G>kBT@CI:^kW6>;K3
+Z114 DE work test_top `XCzB`RJYnQ[;j1bK^N>J1
+R15
+R16
+l86
+L45
+Z115 VfXLBE8<?2iO0RMzofL5j_1
+R20
+32
+R24
+R25
+R41
+R6

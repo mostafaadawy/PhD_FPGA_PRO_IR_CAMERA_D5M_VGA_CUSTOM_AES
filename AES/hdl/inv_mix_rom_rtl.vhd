@@ -1,0 +1,41 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_arith.all;
+ENTITY inv_mix_rom IS
+   PORT( 
+      clk     : IN     std_logic;
+      rom_in  : IN     std_logic_vector (0 TO 3);
+      rom_out : OUT    std_logic_vector (0 TO 31)
+   );
+END inv_mix_rom ;
+ARCHITECTURE rtl OF inv_mix_rom IS
+Type rom_type is array (0 to 15) of std_logic_vector(0 to 31);
+constant rom : rom_type :=(
+"00001110000010110000110100001001",
+"00001001000011010000101100001110",
+"00001001000010010000100100001000",
+"00000110000001100000010100000100",
+"00001001000001000000101100000111",
+"00000010000011010000000100001111",
+"00000111000011000000010000001110",
+"00001011000010010000100100001010",
+"00000110000010000000010000001011",
+"00000100000010010000011100001011",
+"00001111000011100000110100001101",
+"00000111000011100000010000001100",
+"00001011000010100000100100001001",
+"00000110000010110000010000001000",
+"00000100000010110000011100001001",
+"00001111000011010000110100001110"
+);
+
+BEGIN
+process (clk)
+variable addr_int: integer range 0 to 15;
+begin
+  if (rising_edge (clk))then
+	addr_int := conv_integer(unsigned(rom_in));
+	rom_out <= rom(addr_int);
+  end if;
+end process;
+END rtl;
